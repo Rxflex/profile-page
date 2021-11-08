@@ -7,5 +7,5 @@ instagram_login = '@smookywizard'; //Логин от инстаграм (Не о
 website_url = 'smookywizard.ru'; // Ссылка на сайт (Не обязательно)
 twitter_login = ''; // Логин от твиттер (Не обязательно)
 
-profile_theme = 'dark'; // Стиль профиля, доступные стили: dark, light
+profile_theme = 'dark'; // Стиль профиля, доступные стили dark, light
 profile_color = 'rgb(32, 34, 37)'; // Цвет рамки профиля
